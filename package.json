@@ -1,0 +1,23 @@
+{
+  "name": "canarybot",
+  "version": "0.0.1",
+  "dependencies": {
+    "snoowrap": "*",
+    "twit": "*",
+    "imgur": "*",
+    "bluebird": "*"
+  },
+  "readmeFilename": "README.md",
+  "description": "A twitter bot.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Crazy-Duck/canarybot.git"
+  },
+  "keywords": [
+    "twitter",
+    "reddit",
+    "imgur"
+  ],
+  "license": "MIT"
+}
